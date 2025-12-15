@@ -142,7 +142,6 @@
   
   .d-grid {
     display: grid;
-    gap: 3rem;
   }
   
   .btn {
@@ -329,7 +328,7 @@
   
   @media screen and (max-width: 968px) {
     .hero__img {
-      width: 280px;
+      width: 200px;
       justify-self: center;
     }
   }
